@@ -136,10 +136,30 @@ DELTA includes security features to protect the application and license system.
 
 ---
 
+---
+
 ## ❤️ Credits
 
-**DELTA — Discord Quest Hunter**
+### DELTA — Discord Quest Hunter
 
 Developed and maintained by **Eminene Tech Team**.
 
 Made for the Discord quest community with a focus on a fast, simple, and premium user experience.
+
+### 🌍 Open Resource Notice
+
+DELTA is built using **publicly available free resources** provided by the community and official public services where applicable.
+
+This includes publicly accessible game detection data, icons, libraries, and other free resources used to improve the application experience.
+
+**All trademarks, game APIs, icons, and related assets remain the property of their respective owners. DELTA does not claim ownership of any third-party resources used within the application.**
+
+---
+
+<div align="center">
+
+**DELTA — Discord Quest Hunter**
+
+Made with ❤️ by **Eminene Tech Team**
+
+</div>
